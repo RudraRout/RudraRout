@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RudraRout
 - 👀 I’m a MERN Stack Developer
-- 🌱 I’m a BCA graduate
-- 💞️ I’m looking to collaborate on MERN Stack Development
+- 🌱 I’m a BCA Graduate
+- 💞️ I’m Looking For Job Oppertunity In MERN Stack Development
 - 📫 How to reach me rudrarout2001@gmail.com
 
 <!---
