@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RudraRout
-- 👀 I’m interested in Andriod devlopment
-- 🌱 I’m currently learning  BCA
-- 💞️ I’m looking to collaborate on andriod development
+- 👀 I’m a MERN Stack Developer
+- 🌱 I’m a BCA graduate
+- 💞️ I’m looking to collaborate on MERN Stack Development
 - 📫 How to reach me rudrarout2001@gmail.com
 
 <!---
